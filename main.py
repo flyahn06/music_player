@@ -3,7 +3,7 @@ from discord.ext import commands
 import glob
 import datetime
 
-token = "NjEyMjYyNTE3MTU4MzEzOTg0.XVfz5w.ZdCmXctHkpE4kZDZtP7DpDN82G4"
+token = "private"
 
 bot = commands.Bot("~")
 
